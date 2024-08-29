@@ -22,8 +22,8 @@ pip install opencv-python easygui numpy imageio matplotlib pillow
      python cartoonifier-python-project.py
      ```
   2. A GUI window will open. Click on “Cartoonify an Image” to select an image file.
-  3.The script will process the image and display the cartoonified version.
-  4.You can save the cartoonified image by clicking on “Save cartoon image”.
+  3. The script will process the image and display the cartoonified version.
+  4. You can save the cartoonified image by clicking on “Save cartoon image”.
 
 ## Functions
  - ```upload()``` : Opens a file dialog to select an image and calls the cartoonify() function.
