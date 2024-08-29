@@ -32,8 +32,11 @@ pip install opencv-python easygui numpy imageio matplotlib pillow
 
 ## Eample
 **Original**
+
 ![Eample img](image/im1.png)
+
 **Cartoon**
+
 ![Eample img](image/im2.png)
 
 ## License
