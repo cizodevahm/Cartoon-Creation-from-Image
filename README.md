@@ -30,14 +30,14 @@ pip install opencv-python easygui numpy imageio matplotlib pillow
  - ```cartoonify(ImagePath)``` : Processes the image to create a cartoon effect.
  - ```save(ReSized6, ImagePath)``` : Saves the cartoonified image to the specified path.
 
-## Eample
+## Example
 **Original**
 
-![Eample img](image/im1.png)
+![Example img](image/im1.png)
 
 **Cartoon**
 
-![Eample img](image/im2.png)
+![Example img](image/im2.png)
 
 ## License
 This project is licensed under the MIT License.
